@@ -10,8 +10,8 @@ module.exports = () => {
     entry: {
       main: "./src/js/index.js",
       install: "./src/js/install.js",
-      editor: "./src/js/editor.js",
-      header: "./src/js/header.js",
+      // editor: "./src/js/editor.js",
+      // header: "./src/js/header.js",
     },
     output: {
       filename: "[name].bundle.js",
@@ -27,17 +27,16 @@ module.exports = () => {
       // Injects our custom service worker
       new InjectManifest({
         swSrc: "./src-sw.js",
-        swDest: "service-worker.js",
-        exclude: [/\.(?:png|jpg|jpeg|svg)$/],
+        swDest: "src-sw.js",
+        // exclude: [/\.(?:png|jpg|jpeg|svg)$/],
       }),
 
       // Creates a manifest.json file.
-      // new GenerateSW(),
       new WebpackPwaManifest({
         fingerprints: false,
         inject: true,
         name: "J.A.T.E",
-        short_name: "JATE",
+        short_name: "Jate",
         description: "Have fun editting text!",
         background_color: "#225ca3",
         theme_color: "#225ca3",
