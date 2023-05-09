@@ -26,7 +26,7 @@ export const putDb = async (content) => {
   const store = tx.objectStore("jate");
 
   // Use the .put() method on the editor and replace the current content.
-  const request = store.put({ jate: content });
+  const request = store.put({ id: 1, value: content });
 
   // Get confirmation of the request.
   const result = await request;
@@ -47,7 +47,7 @@ export const getDb = async () => {
   const store = tx.objectStore("jate");
 
   // Use the .getAll() method to get all data in the database.
-  const request = store.getAll();
+  const request = store.get(1);
 
   // Get confirmation of the request.
   const result = await request;

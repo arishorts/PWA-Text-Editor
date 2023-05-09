@@ -1,50 +1,51 @@
 # PWA Text Editor ![alt text](https://img.shields.io/badge/License-MIT-blue.svg)
 
-  ## Description:
-  
-  &nbsp; TBD
+## Description:
 
-  ## Table of Contents:
-  
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Tests](#tests)
-  - [Badges](#badges)
-  - [How_to_Contribute](#how_to_contribute)
-  - [Questions](#questions)
-  - [License](#license)
+&nbsp; TBD
 
-  ## Installation:
+## Table of Contents:
 
-  &nbsp; Yes
+- [Installation](#installation)
+- [Usage](#usage)
+- [Tests](#tests)
+- [Badges](#badges)
+- [How_to_Contribute](#how_to_contribute)
+- [Questions](#questions)
+- [License](#license)
 
-  ## Usage:
-  
-  &nbsp; The website can be found at: https://arishorts.github.io/PWA-Text-Editor/
+## Installation:
 
-  ## Tests:
+&nbsp; Yes
 
-  &nbsp; No
+## Usage:
 
-  ## Badges:
+&nbsp; The website can be found at: https://arishorts.github.io/PWA-Text-Editor/
+![alttext](../PWA-Text-Editor/client/src/images/demo.JPG)
 
-  ![badmath](https://img.shields.io/badge/JavaScript-66%25-purple)
+## Tests:
+
+&nbsp; No
+
+## Badges:
+
+![badmath](https://img.shields.io/badge/JavaScript-66%25-purple)
 ![badmath](https://img.shields.io/badge/CSS-24%25-purple)
 ![badmath](https://img.shields.io/badge/HTML-9%25-purple)
 
-  ## How_to_Contribute:
-  
-  &nbsp; If you would like to contribute, refer to the [Contributor Covenant](https://www.contributor-covenant.org/)
-  
-  ## Questions:
+## How_to_Contribute:
 
-  &nbsp; My GitHub profile can be found at: https://github.com/arishorts
-  <br>&nbsp; Reach me with additional questions at : arieljschwartz@gmail.com
+&nbsp; If you would like to contribute, refer to the [Contributor Covenant](https://www.contributor-covenant.org/)
 
-  ## License:
+## Questions:
 
-  &nbsp; http://choosealicense.com/licenses/mit/
+&nbsp; My GitHub profile can be found at: https://github.com/arishorts
+<br>&nbsp; Reach me with additional questions at : arieljschwartz@gmail.com
 
-  ---
-  
-  © 2022 Ariel Schwartz LLC. Confidential and Proprietary. All Rights Reserved.
+## License:
+
+&nbsp; http://choosealicense.com/licenses/mit/
+
+---
+
+© 2022 Ariel Schwartz LLC. Confidential and Proprietary. All Rights Reserved.
